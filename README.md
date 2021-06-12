@@ -1,5 +1,15 @@
 # Django starter
 
+## Django commands
+
+```bash
+# check version
+python -m django --version
+
+# bootstrapping project
+django-admin startproject blog
+```
+
 ## Setting virtual environment
 
 installing required package
@@ -81,3 +91,7 @@ add following alias
 alias python=python3
 alias pip=pip3
 ```
+
+## Vscode setting
+
+follow [here](https://code.visualstudio.com/docs/languages/python).
