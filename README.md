@@ -1,5 +1,11 @@
 # Django starter
 
+## Setting postgres in django
+
+- [changes in django](https://stackpython.medium.com/how-to-start-django-project-with-a-database-postgresql-aaa1d74659d8)
+- [client binary for postgres](https://stackoverflow.com/questions/5629368/installing-psycopg2-into-virtualenv-when-postgresql-is-not-installed-on-developm)
+
+
 ## Django commands
 
 ```bash
